@@ -202,7 +202,7 @@ article {
     box-shadow: 0 0 3px hsl(214, 16%, 92%);
     border-radius: 10px;
     background-color: white;
-    padding: 3rem 7rem;
+    padding: 2.5rem 7rem;
     width: 70%;
     margin: auto;
     position: relative;
@@ -258,7 +258,7 @@ footer a{
 
 .footer-logo {
     filter:  brightness(0) invert(1);
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 
 .footer-contact {
@@ -474,11 +474,11 @@ footer {
 
     .btn-cta-pink {
         font-size: .6rem;
-        padding: .6rem 3rem;
+        padding: .6rem 3.5rem;
     }
 
     main {
-        padding: 4rem 2rem 1rem 2rem ;
+        padding: 4rem 1rem 1rem 1rem ;
     }
     
     article {
@@ -512,7 +512,7 @@ footer {
     }
 
     .footer-logo {
-        height: 2rem;
+        height: 1.5rem;
     }
 
 }
